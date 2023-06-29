@@ -1,0 +1,17 @@
+<div class="bg-image" style="
+                                background-image: url('http://127.0.0.1:5501/img/missao.png') ;
+                                background-repeat: no-repeat;
+                                height: 350px;
+                                background-position: center;">
+
+
+
+
+                                <div class="bg-image w-100" style="
+                                background-image: url('http://127.0.0.1:5501/img/Vector-3.png') ;
+                                background-repeat: no-repeat;
+                                height: 400px;
+                                
+                               
+                              
+                                ">

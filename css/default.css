@@ -1,0 +1,66 @@
+html {
+    overflow-x: hidden;
+}
+
+body {
+    background-color: white;
+    overflow-x: hidden;
+    
+}
+
+.container-fluid {
+  padding-right: 0;
+  padding-left: 0;
+}
+
+.bg-img {
+    /* The image used */
+    background-image: url("/img2/Cabecalho03.jpeg");
+    min-height: 180px;
+    max-height: fit-content;
+    margin-left: 20px;
+    
+    
+  
+
+  
+    /* Center and scale the image nicely */
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: cover;
+     
+     /* Needed to position the navbar */
+    position: relative;
+    
+  }
+  
+
+  
+  /* The navbar */
+  .topnav {
+    overflow: hidden;
+    
+  }
+  
+  /* Navbar links */
+  .topnav a {
+    text-decoration: none;
+    color: #ddd;
+
+  }
+
+  a.menu-topo:hover, a.menu-topo:active {
+    background-color:#682FE1;
+    color: #ddd;
+  }
+  
+  a.menu-topo:link {
+    background-color:#682FE1;
+    color: #ddd;
+  }
+  
+  /* visited link */
+  a.menu-topo:visited {
+    background-color:#682FE1;
+    color: #ddd;
+  }

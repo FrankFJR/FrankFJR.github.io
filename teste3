@@ -1,0 +1,66 @@
+<header>        
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-auto">
+                        <a class="navbar-brand" href="#">
+                            <img src="img/LogoMaris.png" alt="Logo" width="133" class="d-inline-block align-text-top pt-2 pb-2">                       
+                        </a>
+                    </div>
+                    <div class="col pt-3">
+                        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+                          <div class=".container-fluid">
+                            
+                              <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                                <span class="navbar-toggler-icon"></span>
+                              </button>
+                              <div class="collapse navbar-collapse" id="navbarNav">
+                                <ul class="navbar-nav">
+                                  <li class="nav-item">
+                                    <a class="nav-link active" aria-current="page" href="#">Quem Somos?</a>
+                                  </li>
+                                  <li class="nav-item">
+                                    <a class="nav-link" href="#">Missão</a>
+                                  </li>
+                                  <li class="nav-item">
+                                    <a class="nav-link" href="#">Ações</a>
+                                  </li>
+                                  <li class="nav-item">
+                                    <a class="nav-link" href="#">Seja Colaborador</a>
+                                  </li>
+                                  <li class="nav-item">
+                                    <a class="nav-link" href="#">Contato</a>
+                                  </li>
+                                </ul>
+                              </div>
+                          </div>
+                        </nav>
+                    </div>
+                </div>     
+             </div>             
+    </header>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <img src="img2/Cabecalho.png" alt="Logo"class="d-inline-block align-text-top pt-2 pb-2">**
+
+                  imagens missao
+    float-end rounded missao 01
+    float-start rounded missao 02
+    float-end rounded missao 03
+    float-start rounded missao 04
+    float-end rounded missao 05
+    float-start rounded missao 06 

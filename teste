@@ -1,0 +1,50 @@
+<div class="fundocor">
+      <div class="principal">
+          <h3 class="h1">Quem somos?</h3>
+
+                <img src="img/imgtexto.jpg" alt="Logo da Instituição Maris" class="imagemDeisgualdade">
+            
+                          <p class="paragrafo1">A ação pela Igualdade foi fundada por um grupo de pessoas comprometidas em combater a desigualdade social no 
+                          Brasil, um país com uma das maiores taxas de desigualdade do mundo. A ONG trabalha em diversas áreas, como 
+                          educação, saúde, moradia, alimentação e emprego.
+                          A educação é uma das principais áreas de atuação da Ação pela Igualdade. A ONG acredita que a educação é a chave
+                          para reduzir a desigualdade social, pois permite que as pessoas tenham acesso a oportunidades de emprego
+                          melhores e mais bem remunerados. </p>
+                     </div>
+                     <div class="paragrafo2">       
+                    Por isso, a ONG trabalha para fornecer educação de qualidade para crianças e jovens em áreas pobres do Brasil.
+                    Além disso, a Ação pela Igualdade também se dedica a fornecer assistência médica e odontológica para as comunidades 
+                    carentes, bem como a distribuição de alimentos e roupas. A ONG também promove programas de geração de renda,
+                    ajudando as pessoas a desenvolver habilidades para conseguir empregos melhores e começar seus próprios negócios.
+              </div>
+             <section> 
+              <div class="missao">
+                  <p class="h1">Missão</p>
+              </div>
+              <div class="missaoTexto">
+                <p>O objetivo de acabar com a desigualdade social é um esforço importante para garantir que todas as pessoas tenham acesso a 
+                  recursos e oportunidades iguais na sociedade. Isso pode envolver políticas públicas que visem reduzir as disparidades econômicas, como programas de assistência social e de redistribuição
+                  de renda. Além disso, medidas que promovam a educação e o acesso a serviços básicos, como saúde e saneamento, também são fundamentais para garantir que todas as pessoas tenham as mesmas condições de vida.
+                </p>
+              </div>
+            </section>
+            <div class="imgMissao">
+              <img src="img/imgMissao1.png" alt="" class="imgMissao1">
+              <img src="img/imgMissao2.png" alt="" class="imgMissao2">
+              <img src="img/imgMissao3.png" alt="" class="imgMissao3">
+              <img src="img/imgMissao4.png" alt="" class="imgMissao4">
+              <img src="img/imgMissao5.png" alt="" class="imgMissao5">
+              <img src="img/imgMissao6.png" alt="" class="imgMissao6">
+
+
+            </div>
+              
+            <main>
+                <div class="Image_desigualdade">
+                  
+                  <p class="msn_desigualdade "><strong>UNIDOS CONTRA</strong> </p>
+                  <p class="msn_desigualdade"><strong>A DESIGUALDADE.</strong> </p>
+                  <p class="msn_desigualdade"><strong>E PELA A INCLUSÃO SOCIAL</strong></p>
+          
+                  </div>
+              </main>

@@ -1,0 +1,40 @@
+<div class="row ">
+    <div class="col-3">
+      <nav class="navbar navbar-light bg-light">
+        <div class="container">
+          <a class="navbar-brand" href="#" id="home"><br>
+            <img src="/img2/LogoMaris titulo.png" alt="" width="115" height="110">
+          </a>
+        </div>
+      </nav>
+    </div>
+    <div class="col-7 text-center ">
+      <nav>
+        <div><br><br>
+          <ul class="nav justify-content-center pt-0 navbar navbar-expand-lg navbar-light bg-light">
+            <li class="nav-item ">
+              <a class="nav-link active" aria-current="page" href="#home">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#quemSomos">Quem Somos</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#missao">Missão</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#acoes">Ações</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#comoAjudar">Como Ajudar</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#contato">Contato</a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+    </div>
+    <div class="col-2">
+         <p>&nbsp;</p>
+    </div>
+</div>

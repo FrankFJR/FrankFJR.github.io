@@ -1,0 +1,28 @@
+<div class="img-fluid">
+  <img src="img2/Cabecalho.png" alt="vetor01" style="width: 100%;">
+ </div>
+
+ <nav>
+    <div>
+      <ul class="nav justify-content-center pt-0 bg-transparent">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="#home">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#quemSomos">Quem Somos</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#missao">Missão</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#acoes">Ações</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#comoAjudar">Como Ajudar</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#contato">Contato</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
